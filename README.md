@@ -12,7 +12,7 @@ The experiment focused on whether an attacker could insert an instruction into a
 
 ---
 
-## Experiment 01 — Prompt Injection
+## Experiment 01 - Prompt Injection
 
 ### Environment
 
@@ -129,7 +129,7 @@ A useful security assessment therefore combines automated testing with manual cl
 
 ## Next Steps
 
-### Experiment 01A — Baseline analysis
+### Experiment 01A - Baseline analysis
 
 * Extract all prompt-injection attempts.
 * Group them by attack style.
@@ -137,7 +137,7 @@ A useful security assessment therefore combines automated testing with manual cl
 * Manually classify the outputs.
 * Calculate meaningful rates using the complete Garak run data.
 
-### Experiment 01B — Attack variations
+### Experiment 01B - Attack variations
 
 Test whether results change when the injection is:
 
@@ -148,7 +148,7 @@ Test whether results change when the injection is:
 * repeated multiple times
 * surrounded by formatting or delimiter characters
 
-### Experiment 02 — Mitigation
+### Experiment 02 - Mitigation
 
 Develop a simple defense against prompt injection and repeat the same tests.
 
