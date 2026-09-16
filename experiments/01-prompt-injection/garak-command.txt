@@ -1,1 +1,1 @@
-
+garak --target_type ollama --target_name llama3 --probes promptinject
