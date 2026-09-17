@@ -160,4 +160,17 @@ is therefore a central part of this experiment.
 7. Can a mitigation reduce confirmed injections?
 8. Does the mitigation also reduce ambiguous detector-positive results?
 
+---
 
+## 6. Next experiment
+
+~The next step is to extract the complete set of attempts from the Garak run and create a structured dataset containing:~ ✅
+
+* ~attempt ID~
+* ~probe~
+* ~prompt~
+* ~model output~
+* ~detector result~
+* ~manual classification~
+
+~This dataset will allow the experiment to move from qualitative observations to quantitative analysis.~ Moving on to Experiment 01B.
