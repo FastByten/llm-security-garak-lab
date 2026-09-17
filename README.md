@@ -129,7 +129,7 @@ A useful security assessment therefore combines automated testing with manual cl
 
 ## Next Steps
 
-### ~Experiment 01A - Baseline analysis~
+### ~Experiment 01A - Baseline analysis~ ✅
 
 * ~Extract all prompt-injection attempts.~
 * ~Group them by attack style.~
