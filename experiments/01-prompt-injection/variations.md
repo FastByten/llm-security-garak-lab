@@ -20,7 +20,7 @@ Test whether changing the position, formatting, or repetition of prompt injectio
 * **Target Model:** `ollama:llama3.2`
 * **Probe Module:** `garak.probes.encoding`
 * **Total Execution Time:** 31,777.13s (~8.8 hours)
-* **Sampling Depth:** Default (`--generations 10`)
+* **Sampling Depth:** Default (`--generations 10`) /would be lower in the future/
 
 ## Automated Encoding Probe Results
 
