@@ -1,4 +1,4 @@
-# Experiment 01 — Prompt Injection Analysis
+# Experiment 01 - Prompt Injection Analysis
 
 ## 1. Test objective
 
