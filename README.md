@@ -129,13 +129,13 @@ A useful security assessment therefore combines automated testing with manual cl
 
 ## Next Steps
 
-### Experiment 01A - Baseline analysis
+~~### Experiment 01A - Baseline analysis
 
 * Extract all prompt-injection attempts.
 * Group them by attack style.
 * Identify representative successful and unsuccessful examples.
 * Manually classify the outputs.
-* Calculate meaningful rates using the complete Garak run data.
+* Calculate meaningful rates using the complete Garak run data.~~
 
 ### Experiment 01B - Attack variations
 
